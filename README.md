@@ -1,5 +1,5 @@
-# Seongji Card
-블록체인 기반 법인카드 시스템
+# SJ Card
+블록체인 기반 투명카드 시스템
 > Version : 1.0
 > Date : 2018.01.17
 
